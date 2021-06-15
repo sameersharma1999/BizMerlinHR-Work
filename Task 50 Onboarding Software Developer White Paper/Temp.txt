@@ -1,0 +1,20 @@
+Format
+
+1. Title
+2. Abstract
+3. Problem Statement
+4. Background
+5. Solution 
+6. Conclusion
+7. References
+
+Some pitfalls of onboarding software developer (Blog)
+https://blog.walkme.com/3-user-onboarding-mistakes/?t=20&para1=SMQ
+
+Some challanges of onboarding sofrware developer (quora answer)
+https://www.quora.com/Whats-the-hardest-part-about-onboarding-new-software-engineers-into-a-company
+
+Things to do
+1. How to Onboard New Developers Remotely
+2. Remote Onboarding Matters!
+

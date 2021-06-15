@@ -1,0 +1,8 @@
+12-04-2021
+
+1. Doc the details for Custom view page UI design
+2. Analyse and Started the KB article on "Import a list of Users through an Excel/CSV file".
+
+13-04-2021
+
+1. Wrote KB article on Import User Record.

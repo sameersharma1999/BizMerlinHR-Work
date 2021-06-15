@@ -1,0 +1,15 @@
+Main Points
+
+1. Chat like Survey
+	Resources: 
+		1. https://surveybot.io/
+		2. Image in folder
+2. Slide Bars 
+	Resources:
+		1. Image
+3. Graphs for analysis of the survey (Graph visulization of survey results)
+4. Sentiment Analysis 
+
+
+
+Note: When we assign survey. User is redirected to email instead of directly

@@ -1,0 +1,10 @@
+1. Automated Software Tour or Walk-through's. (Module Wise)
+
+2. Use slider at https://www.bizmerlin.com/whats-new/ for new features (Just for major features).
+
+3. Increase font size and bold the characters of sub-menu instead of underling  it. (Make look and feel really smooth). 
+
+4. Do we need a company tagine ?
+
+5. Tagline for the Testimonials can be changed from "Testimonials From our customers"  to  "What our customer say about us" 
+			https://www.bizmerlin.com/testimonials/
